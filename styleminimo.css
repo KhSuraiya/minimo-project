@@ -1,0 +1,28 @@
+
+/*common css start*/
+
+body{
+  font-family:"Playfair Display", serif;
+  font-size:16px; 
+  font-weight:400;
+  color:#000000;
+}
+/*common css end*/
+/*header start*/
+header{}
+
+.container{
+  margin:0 auto;
+  width: 90%;
+  border:1px solid black;
+}
+.logo a{}
+.logo a img{}
+
+.menu{}
+.menu ul {}
+.menu ul li {}
+.menu ul li a {}
+.menu ul li:last-child a {}
+.menu ul li a:hover {}
+/*header end*/

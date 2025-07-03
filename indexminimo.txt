@@ -1,0 +1,9 @@
+font-family: "Playfair Display", serif;
+  font-family: "Ubuntu", sans-serif;
+ <link rel="stylesheet" type="text/css" href="css/style.css">
+
+
+
+ color--
+ black:#000000;
+ gray:#626262;
